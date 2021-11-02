@@ -1,7 +1,7 @@
-- 👋 Hi, I’m David, I am a SQL Database admin & SQL developer
+- 👋 Hi, I’m Motete, I am a SQL Database admin & SQL developer
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Type Script, Spring is next
-- 📫 How to reach me, very easy on LinkedIn search for David Letuka
+- 📫 How to reach me, very easy on LinkedIn search for Motete Letuka
 
 <!---
 letDav/letDav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
